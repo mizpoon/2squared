@@ -1,4 +1,4 @@
-ip=105
+ip=150
 while true; do
 	echo -n Press enter to flash 10.0.0.$ip
 	read foobar
